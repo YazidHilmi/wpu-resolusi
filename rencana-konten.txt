@@ -2,3 +2,5 @@
 - python
   - pandas
 - Fundamental Data Dasar
+- Angular
+- PHP Framework
