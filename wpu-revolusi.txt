@@ -1,3 +1,4 @@
 WPU RESOLUSI
 - Konsisten belajar code
 - Jago Pandas
+- Jago python
