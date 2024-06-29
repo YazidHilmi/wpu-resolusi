@@ -2,3 +2,6 @@
 - python
   - pandas
 - Fundamental Data Dasar
+- Laravel
+- Golang
+- reactjs
