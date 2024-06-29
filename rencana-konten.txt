@@ -1,3 +1,4 @@
 - javascript
 - python
   - pandas
+- Fundamental Data Dasar
