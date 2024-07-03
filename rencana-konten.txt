@@ -1,0 +1,10 @@
+- javascript
+- python
+  - pandas
+- Fundamental Data Dasar
+- nodejs
+- Golang
+- reactjs
+- tes123
+-papapa
+-jajaja
