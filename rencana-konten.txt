@@ -1,7 +1,7 @@
 - javascript
 - python
   - pandas
-- Fundamental Data Dasar
+- Fundamental Pancasila
 - nodejs
 - Golang
 - reactjs
